@@ -113,7 +113,7 @@ function generateREADME(response) {
   }
 
 function writeToFile(fileName, data) {
-    fs.writeFile(fileName, data, err => err ? console.log(err) : console.log('README.md is successfuly created!'))
+    fs.writeFile(fileName, data, err => err ? console.log(err) : console.log('README_professional.md is successfuly created!'))
 }
 
 // Function to initialize app

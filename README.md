@@ -50,6 +50,8 @@ THEN I am taken to the corresponding section of the README
 
 ## Appearance and  Functionality
 
+Click on [README_generator](https://watch.screencastify.com/v/WoIu8nRrp1CxQuzxykua) to watch the video walkthrough.
+![Onscreen README generator](739201B3-E54D-4C40-9413-685B02C8D008.jpeg)
 
 ## Credits
 
