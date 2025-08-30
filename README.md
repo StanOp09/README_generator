@@ -57,8 +57,6 @@ Click on [README_generator](https://watch.screencastify.com/v/WoIu8nRrp1CxQuzxyk
 
 Sean Roshan
 
-Chat GPT
-
 [NPM](https://www.npmjs.com/)
 
 [NodeJS](https://nodejs.org/en)
